@@ -224,3 +224,43 @@ Ancient schools of philosphical ethics after Aristotle
 
 
 
+==========
+2018-09-14
+==========
+
+Summary of theories of ethics from the Modern period
+    - Countering religious dogmatism in customary morality, three major, revolutionary, approaches stand out
+    - Each is bassed on the assumption that ethics should be guided by reason (a capacity all humans have)
+    - Social Contractarianism: right and wrong are based on a (fictitious) social contract. Made explicit by Hobbes in the 17th cent. and revisited in the 20th cent by John Rawls
+    - Utilitarianism: right and wrong are based on the 'utility' for happiness of the consequences of actions for all those affected. 
+        Introduced by Mentham and James Mill (18 cent) and developed by John Stuart Mill (19th cent)
+    - The Kantian analysis: right and wrong are basse don whether actions respect fellow humans as capable of pursuing their own goals and life projects (as autonomous beings or persons)
+
+Utilitarianism
+    - The foundation: it is relevant to ethics what everyone desires. which is to gain happiness or pleasure and to avoid unhappiness, suffering and pain
+        * John Stuart Mill (1806-1873) suggests, moreover, that if we are consistent, we won't privilege ourselves in ethics (Principle of Impartiality!) 
+            and the more (and the higher quality) of a good thing the better
+    - So the Principle of Utility says: Act so as to bring about the greatest happiness for the greatest number, taking into account that each individual counts for one and only for one
+        * Interestingly this approach also implies that the sphere of those who count ethically is greater than the sphere of humanity. Why?
+    - Because it includes all those beings that are sentient
+    - It is a consequentialist approach: the kind of action is irrelevant, only the consequences count
+        * So in some exeptional situations, in which no other course of action seems available, even stealing or lying may not be wrong in this view 
+            -- but only if it brings about greater total happiness for the aggregate than all other options
+
+Utilitarianism Applied
+    - Missunderstanding: It is not simply a question whether an action brings about more pleasure or happiness than not doing it! (And possibly me!) Why not?
+        * This would be a kind of consequentialist ethics but not utilitarian consequenctialist ethics
+    - Rather, the utilitarian apporach
+        a) is to do the action brings about the greatest amount of pleasure of ahppiness - in comparison to all other (reasonable)  options!
+        b) for teh aggregate (the summation) of all those concerned. Relevant: depth in time and space. (How deep?...
+    ....
+    - Case 1: I have $20 that I want to domate to a worthy cause. I have several options
+        a) Give it to a friend who wants to stange a party
+        b) Give it to a group of birdwatchers who are collecting donations to finance a trip to S. America to view birds
+        c) Give it to Doctor's without Borders to buy bandages and medicine
+    - Case 2: On a certain road new Victoria there are many accidents on a narrow curve. The city of Victoria has decided to expropriate the property next toe thad to straighten the road. 
+        This will desctroy a heritage house and will force a 79 y/o widdow to move away from her ancestral home.
+
+
+
+
