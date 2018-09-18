@@ -264,3 +264,64 @@ Utilitarianism Applied
 
 
 
+==========
+2018-09-18
+==========
+
+The Kantian Approach
+    - Immanual Kant (1724-1804 CE), worked on epistemology, metaphysics, ethics, many sciences including metorology!
+    - Konigsberg, East Prussia (Kaliningrad, Russia)
+    - Great Conversationalist, dinner parties
+    - Had students seel in hallways trying to get a seat in the over-full classroom in which he taught!
+    - The Foundation: Humans value the realisation of their projects. That is: we value our 'autonomy' (capacity of self-direction)
+    - Assumes that ordinary people already know what the right thing to do is.
+        * Philosophy only helps us to make it clear -- so that we do not (convienently) make exceptions for ourselves
+    - Ethics is constituted by what a person guided by reason would do
+        * This we can discover on our own: we need to ask, is this an action that I consider ethically right -- without contradicting myself?
+        * eg. can I choose to lie -- and really will to live with a world in which lying could be the ethical norm? Or would I simply (and convienently) be wanting to make an exception for myself?
+
+Kantian-2
+    - Kant's summary of the ultimate principle: The right thing to do is that, which any rational being can recognise as such 
+        It should not intail a logical contradiction nor a contradiction with other reasonable principles
+    - From this, Kant concludes that the right thing to do is that kind of act that any ratinal being could 'will' (activity endorse) to be done in the circumstances
+    - It is ...
+    ...
+
+The Ultimate Principle of Morality
+    - So the 1st version of the ultimate principle of morality is: act in such a way that the maxim by which you act could become a universal law
+        * Maxums are the underlying principle of actions, that which is guides the action
+    - In other words, the 1st version says: act so that you would be willing to endorse that the underlying principle of you action become the principle by which any and all people act
+    - Ex1, should I make a lying promise to return something about which I already know that I will not be able to do?
+    - Ex2, Should I help someone in need?
+
+Kantian-3
+    Three possible types of actions
+        1. Sometimes we consider acting in a way that is not in agreement with the ultimate principle (it could not become the universal rule of action). These acts are not permissible
+        2. SOmetimes though, we acti because of the ultimate principle, those actions are ethically praiseworthy
+        3. Sometimes we act in our own best interests, 
+            but if it is in agreement with the ultimate principle (the action does not contradict it) but is not because of the ultimate prinviple then tose actions are permissible 
+            (not ethically wrong even if not praiseworthy)
+    So
+        1. Some actions are clearly wring: to act in such a way that another could not, in principle, consent to. To injure, to defraud, to lie, to manipulate someone...
+        2. Some actions clearly are right: to support others in their goals. To gie help to those in need, to return an item that someone lost
+        3. Mainly actions are neither wrong, nor praiseworthy: to do what one pleases while respecting others. Ex... painting a landscape picture, walking in the park, minding one's own buisness
+
+Explaining the Principle
+    More on the foundation:
+        - What is special about human beings is that, as rational beings, we do care about our ability to carry on our projects, to make our own decisions about how to act... we care about our autonomy!
+    So the 2nd version of the ultimate principle of morality is this: act in such a way that you always treat humanity as an end and never as a mere means
+    Isn't it often necessary to treat others as a means/ Yess, and it's ok
+        - The principle says that it is wrong to use others as a mere means: using them in ways that they could not in principle consent to (eg to defraud them)
+    - Treating others as ends: suporting them in their attempt to fufill their own ends ...
+        ....
+
+Application
+    - Ex1, should I make a lying promise to return something which I already know that I will not be able to do?
+        Would this be treating another as a mere means or as and end?
+    - Ex2, Should I not help someone in need?
+        ...
+
+
+
+
+
