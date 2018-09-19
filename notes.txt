@@ -325,3 +325,73 @@ Application
 
 
 
+==========
+2018-09-19
+==========
+
+Social Contractarianism: Old and New
+    - The Foundation: Agreement is society is the vasis for moral right/wrong
+    - Hobbes: Right and wrong is what members of society do agree upon is right and wrong 
+            (probably including being against killing innocent children, but also possibly accepting gender discrimination or racism, for ex)
+    - Rawls: right and wrong is what each one of us, as members of society, would agree upon if we had to decide 'from behind a veil of ignorance' 
+            that impeded us from knowing which place in society each one of us, individually, do occupy.
+        * So for example, could gender discrimination or payin ga misery of a wage to someone be right? Well, how ould we think about it if looked at it from behind the veil of ignorance?
+    - If we realise that we ourselves might be among the discriminated agains, or those who are paid less than is fair, we will likely not thing that either is fair or right
+    - Rawls thinks that we would at least agree to two basic principles:
+        1. Each person is to have an equal right to the most extensive basic liberty compatible with a similar liberty for others
+        2. Social and economic inequalities are to be arranged so that they are both
+            a) reasonably expected to be to everyone's advantage 
+            b) attached to positions and offices open to all.
+    - Some implications discussed by Rawls:
+        * Liberty cannot be traded off for some others benefit: health or other freedom of movement cannot be exchanged for some other benefit to individuals or society 
+            -- even if they would increase utility
+        * Some inequaities may be acceptable but must be endorsable by all
+    
+Feminist Ethics
+    - The key observation underlying feminist ethics is that women in our societies tend to be subordinate to me, discriminated on the basis of their gender, 
+        and that their point of view is either depreciated or not seen as relevant because they are women.
+    - Feminist ethics argues that all forms of oppression of women are ethically wrong
+    - So: Right action is that which corrects oppression against women, in all circumstance where it occurs
+    - Some feminists understand feminist ethics as arising from a commitment to oppose all sorts of oppression, not just of women
+    - Consequently they also oppose racism, ageism, discrimination of disabled people, and oppression of nature
+    - A key reference point are Karen Warren's arguments for ecofeminism
+
+From Feminist Ethics to Care Ethics
+    - A further observation made by some feminists is that women have a specific perspective on life due to their biological and cultural roles
+    - The exact nature of this perspective (genetic? cultural?) is debated when it appears to "essentialise" women's biological and cultural circumstances
+    - The specific persoective of women has been understood to lead to an ethic of care, which arises from a perception of responsibility regarding those with whom we are in relationships
+    - Insofar as this ethics is grounded in personal experience is often contrasted with Kantian and Utilitarina ethics
+    - Other rather see it as complementary though.
+
+Care Ethics
+    - A key question to ask about ethics: why should I take responsibility? The answer of care ethics is: because I am "in-relationship" with a number of beings
+    - The principle of care ethics: "caring for others and fostering good relationships"
+    - Foundation: caring for others and fostering good relationships come 'naturally'
+        1. beause of our sociality
+        2. because of our reciprocal need for each other
+    - What is care?
+        ....
+    - Key Features:
+        - Moral attention: attending to the complexity of situations
+        - Sympathetic understanding: attending to the best interests of others in need
+        - RElationship awareness: taking not that we are all in relationships with others
+        - Accommodation and harmony: acting to preserve harmony in relationships by seeking to accommondate others
+    - Though originally thought of as characteristic of women and girls, Manning does not see care ethics as limited to one gender
+    - A source for the initial development of the theory of care ethics was the supposed contrast between the care and the justice voice
+        - The psycologist Lawrence Kohlberg had proposed a theory of stages of moral development
+        - Starting from ego-centredness of small children, we develop until reaching the highest stage, at which....
+
+Care Ethics - 2
+    - The feminist psychologist Carol Gilligan claims that Kohlberg privileges principles in an abstract moral vacuum, ilustrated by the "Hienz Delema": girls and boys solve it differently
+        - The reaction of a) boys in contrast to b) girls highlight different conceptions of agency: 
+            a) isolated, following abstract rules, impartiality 
+                vs
+            b) recognition of our embeddedness in situations, attending to others without rules, with sympathetic understanding and identification
+        - Separate vs connected self (Lyons): contrast between a) conflict between abstract...
+        ...
+
+
+
+
+
+
