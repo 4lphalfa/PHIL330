@@ -530,8 +530,8 @@ Issues re the moral responsibility of corporations
         1. THey have an internal decision structure that directs decisions in line with set goals (French 1979) -- similarly to people with minds
         2. Mission statements manifest a set of beliefs and values that states what is generally regarded as right or wrong for the corporation, creating an 'organizational culture' (Moore 1999)
         3. While ownership may shift, corporations can act based on beliefs, values, and objectives
-        4. So by the fact that corporations act based on having an internal decision structure and beliefs ...
-    ...
+        4. So by the fact that corporations act based on having an internal decision structure and beliefs and values they should be held equally responsible for their actions as human persons
+    Are an internal decision structure + mission statement really sufficient to make something into a person who can act?
 
 Questions re the moral responsibility of corporations
     Are an internal decision structure + mission statement really sufficient to make something into a person who can act?
@@ -541,11 +541,90 @@ Questions re the moral responsibility of corporations
         - even if any one of the parties does not seem to be fully involved?
 
 More issues re the morally responsibility of corporations
-    Joel Makan (2004): if the corporation is a person then it in fact is kind of unfeeling psychopath, ....
-    ...
-    Is makan right? Is it impossible for corporations to be good 'corporate citizens'?
+    Joel Makan (2004): if the corporation is a person then it in fact is kind of unfeeling psychopath, unable to act except in selfish ways, because of the priority of the profit motive 
+    Book: Bakan, J. 2004. The Corporation, The Pathological Pursuit of Profit and Power. New York: Free Press 
+    Is Bakan right? Is it impossible for corporations to be good 'corporate citizens'?
         - Must corporations necessarily and exclusively be self interested? Why/Why not?
         - What can/should be done to hel them become good 'corporate citizens'?
+    Does good corporate citizenship depend on 
+        a) its mission statement or -- instead -- of its implicit corporate culture
+        b) its formally expressed beliefs and values? or -- instead -- on its tact informally held beliefs and values?
+        c) or rather, on the expressed beliefs and values of shareholders (at annual meetings) or of directors of the board?
+    If it is a matter of implicit corporate ...
+
+
+
+
+
+==========
+2018-09-28
+==========
+
+Managerial Capitalism and stockholders
+    In the early part of the 20th century, in North America the accepted way of doing buisness was "managerial capitalism" 
+        - Accordingly, corporations have all the legal privileges of human persons, such as being able to sue for damages
+        - But corporations were supposed to have no responsibilities, except to a limited set of individuals: shareholders or stockholders
+        - The basis for this model was a very narrow understanding of the legally binding 'fiduciary' responsibility to stockholders as norminal owners of the corporations
+    It may be argued that stock/shareholders are 'at arms length' from corporations, because corporations largely act independently ...
+        ...
+    ...
+
+Milton Friedman as spokesperson for managerial capitalism
+    Writing in a popular magazine, Milton Friedman (1970) assumes that corporations have no social responsibilities
+    His claims:
+        1. Only humans have moral responsibilities for their actions 
+        2. It is managers' responsibilities soley is to act in the interests of the shareholders
+        3. Social issues and problems are the proper buisness of the state rather than of corporate managers
+    We may challenge each of his views
+        1. Why should only humans have moral responsibilitie? Critique?
+        2. Why believe that managers should exclusively act in the interest of shareholders? Critique?
+        3. Why should the responsibility for social issues and problems be the responsibility of the state?
+
+Managerial capitalism and ethics
+    According the the model of managerial capitalism corporations have very few ethical responsibilities, if any
+        - Corporations appear to operate in a 'moral vacuum' -- even where ...
+    ...
+
+Edward Freeman's stakeholder capitalism -- 1
+    Theory developed by Edward Freeman (1984 and 1994 papers)
+        - While managerial capitalism supposes that corporations have an exclusive fiduciary duty to stockholders/shareholders...
+        - Stakeholders capitalism holds: corporations also have (possibly fiduciary) responsibilities to other stakeholders (1994 p.70)
+    Stakeholders of an organization are any groups that have stake in or claim of the firm (1994 p.70)
+        - ...any group or individual who can affect, or is affected by, the achievement of the organization...
+        ...
+    ...
+
+Stakeholder capitalism -- 2
+    Why?
+    The is a reflection of the fact
+        - That corporations constitute a part of our society
+        - That they depend on corporation from others
+        - That they affect the lives and interests of others
+    So a stakeholder of a corporation is an individual or group that
+        - May be harmed by or benefit from the corporation
+        - or whose rights are at risk of being violated...
+    ...
+
+Stakeholder capitalism -- 3
+    Corporations are not natural beings
+        - they are deliberate creations of society, benefiting shareholders, tolerated in expectation that they will be useful to society's diverse members
+    In this context, business ethics Crane and Matten make the following critical comment regarding managerial capitalist apporaches:
+        - "it is not evident why the higly speculative and mostly short-term ...
+    ...
+
+Stakeholder capitalism -- 4
+    Stakeholders are key because they affect or may be affected by the corporation
+        - But each stakeholder also has its own stakeholders
+    So, an action at one end of a network may filter all the way through to many...
+    ....
+
+Stakeholder capitalism -- 5
+    What could motivate corporations to act more according to the stakeholder capitalist and less according to the managerial capitalist model?
+    Possibly
+        - Awareness of the CEO, managers and employees of inter-dependencies of the corporation with its stakeholders
+        - Clear direction from the shareholders
+        - Expectations and encouragement
+        ...
 
 
 
