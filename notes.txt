@@ -745,15 +745,74 @@ Modesl of the client-professional relationship
         2. Professional and client act as if they were equals, based on shared understanding of thet issues in question (contract model). Problems?
         3. Professional and client asc as if they were equals and is as if they could rely on and trust each other, based on shared feelings (friendship model). Problems?
         4. Professional takes on most authority and responsibility as if the client were an infant requireing the equivilent to a parent to make decisions regarding their interest (paternalism model
-        5. feduciary model...
+        5. Professional and client share authority and responsibility as if the client could trust the professionla regarding the issues in question (Fiduciary model) Problems?
 
 Summary of Bayles' points regarding the 5 models
     Agency: the professional is a 'hired gun' who acts in the client's stead. Critique?
-    Critique: it de-personalizes the professional 
-        - The autonomy is superior knowledge of the professional are undervalued
-        - Abducation of responsibility by the professional is supposed, 
-            when in fact professionals can choose the accept or reject clients and they don't see themselves a mere agents of client's wishes
-    Are there cases in which this approaches may be legitimate?
+        Critique: it de-personalizes the professional 
+            - The autonomy is superior knowledge of the professional are undervalued
+            - Abducation of responsibility by the professional is supposed, 
+                when in fact professionals can choose the accept or reject clients and they don't see themselves a mere agents of client's wishes
+        Are there cases in which this approaches may be legitimate?
+
+
+
+
+==========
+2018-10-05
+==========
+
+Summary of Bayles' points regarding the 5 models
+    Agency: the professional is a 'hired gun' who acts in the client's stead. Critique?
+        Critique: it de-personalizes the professional 
+            - The autonomy is superior knowledge of the professional are undervalued
+            - Abducation of responsibility by the professional is supposed, 
+                when in fact professionals can choose the accept or reject clients and they don't see themselves a mere agents of client's wishes
+        Are there cases in which this approaches may be legitimate?
+
+    Contract: professional and client act as if they could come to well-grounded understanding about the details of what to do (as in a contract) based on shared understanding. Critique?
+        Critique: a false sense of equality is assumed
+            - The client really has less knowledge and training than the professional and this is not recognized in the relationship
+            - The contract model encourages minimalism (Do no more than what contracted for) as well as maximalism (eg the professional physicial asks for extra tests to protect himself)
+        Only in exceptional circumstances the shared knowledge base will be so equal that a 'contract' model may be apporpriate. Example?
+
+    Friendship: the client relates to the professional as if they are buddies. Critique?
+        Critique: a false sense of 'chumminess' is assumed
+            - In fact the interests of the professional and the client do diverge, this is not recognised in the relationship
+            - for example, the professional may want to quickly 'get the job done' while the client expects them to take their time, like friends would)
+        There may be exceptional circumstance in which this model may be apporpriate. Examples?
+
+    Paternalism: the professional acts as if the client were a child. Problems?
+        Critique: it depersonalises the client
+        It is mistakenly assumed to be appropriate do to 
+            a) the superior knowledge of the professional
+            b) assumption that the clients cannot give fully free and informed consent
+            c) the supposition that the client later would give their agreement
+        But superior technical knowledge in their dicipline does not mean superior knowledge regarding the value choices of a particular individual
+            - outcomes are not a good
+            - The excuse of 'client incapacity' does not often or regularly arise
+            - When, exceptionally, the client is incapable to give consent the appropriate solution is to find a legal gardian who can legitmately decide what is to be done for the client
+        Paternalism is only appropriate if both 'client incapacity' and 'extreme urgancy' occur.
+
+    Fiduciary: professional and client act as if the client could trust in the professional. Bayles proposes that, for most cases, this model does provide the right balance. Why?
+        - The professional is not de-personalized, as in the agency model
+        - The superior knoweldge of the professional is recognised, unlike in the contract and friendship models
+        - Client is not de-personalized as in the paternalistic mode. Their authority and concerns are recognised
+        Critique:
+            - if the profession is not capable of -- or not willing to -- act in the interests of the client then the fiduciary model is inappropriate
+            - Trust has to be earned, and it can be lost if initially present
+        So, consulting professionals need to be 'trust-worthy' accoring to this model
+
+The Professional-Client Relationship -- 4
+    What does it mean that the relationship is based trust?
+        - It has built on the recognition of relevant differences since the client has to rely on the professional's knowledge and expertise
+        - The professional should base decisions on the values and interests of the client
+    1. One implication is that the professional minimally needs to obtain voluntary informed consent regarding all decisions that may significantly impact the client -- as seen from the client's perspective
+    2. Furthermore, the professional really should be working out the problem...
+
+
+Case: Police and Paternalism
+
 
 
 
